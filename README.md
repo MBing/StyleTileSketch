@@ -5,6 +5,9 @@ and my students [@Thinkful](http://www.thinkful.com) were in need
 of a basic Sketch example iso the Adobe Photoshop one.
 I hope this helps you as much as it helped my students.
 
+## Screenshot in Sketch 3.3.2
+![Sketch Screenshot of Style Tile](screenshot.png)
+
 
 ## More info
 The term `Style Tile` was coined by [Samantha Warren](https://twitter.com/samanthatoy).
