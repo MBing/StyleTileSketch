@@ -9,8 +9,8 @@ I hope this helps you as much as it helped my students.
 ![Sketch Screenshot of Style Tile](screenshot.png)
 
 ## Get Started
-You can Download the Style Tile by clicking on 'Download Zip' right. And
-open it by clicking on the `.sketch` file.
+You can Download the Style Tile by clicking on 'Download Zip' right. Once
+downloaded open the `zip folder` and open the template by clicking on the `.sketch` file.
 
 ## About Style Tiles
 The term `Style Tile` was coined by [Samantha Warren](https://twitter.com/samanthatoy).
